@@ -1,8 +1,8 @@
 Banking Information System
 
 Overview:
-    -The Banking Information System is a Core Java project developed using Java Swing (JOptionPane). It simulates basic banking operations through an interactive user interface.
-    -This project allows users to create an account, manage banking activities, and perform transactions in a simple and user-friendly way.
+    The Banking Information System is a Core Java project developed using Java Swing (JOptionPane). It simulates basic banking operations through an interactive user interface.
+    This project allows users to create an account, manage banking activities, and perform transactions in a simple and user-friendly way.
 
 Features:
 
@@ -28,6 +28,6 @@ Technologies Used:
 Project Objective:
     The main objective of this project is to understand the fundamentals of Core Java and implement real-world banking operations using programming concepts.
 
-## Author
+Developer
 
 Hinduja P
